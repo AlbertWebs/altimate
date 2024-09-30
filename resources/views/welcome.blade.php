@@ -14,7 +14,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
         <link rel="canonical" href="https://www.altimate.co.ke.com"/>
         <meta property="og:title" content="Copiers &amp; Printers | Altimate Business Machine|  Long Island I Nairobi"/>
         <meta property="og:description" content="Altimate Business Machineis located in Nairobi's best place to buy or lease printers, copiers, scanners, fax, business software, production printers, wide format, and managed print services from Ricoh &amp; Canon."/>
-        <meta property="og:image" content="https://static.wixstatic.com/media/01088f_db8ab54e64194ce7b78875b8afc89161~mv2.jpg/v1/fill/w_2500,h_1696,al_c/01088f_db8ab54e64194ce7b78875b8afc89161~mv2.jpg')}}"/>
+        <meta property="og:image" content="https://altimate.co.ke/wp-content/uploads/2021/11/altimate_business_machines_photocopy-machine_kenya.jpg"/>
         <meta property="og:image:width" content="2500"/>
         <meta property="og:image:height" content="1696"/>
         <meta property="og:url" content="https://www.altimate.co.ke.com"/>
@@ -27,7 +27,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
         <meta name="twitter:card" content="summary_large_image"/>
         <meta name="twitter:title" content="Copiers &amp; Printers | Altimate Business Machine|  Long Island I Nairobi"/>
         <meta name="twitter:description" content="Altimate Business Machineis located in Farmingdale, NY and is Long Island and Nairobi's best place to buy or lease printers, copiers, scanners, fax, business software, production printers, wide format, and managed print services from Ricoh &amp; Canon."/>
-        <meta name="twitter:image" content="https://static.wixstatic.com/media/01088f_db8ab54e64194ce7b78875b8afc89161~mv2.jpg/v1/fill/w_2500,h_1696,al_c/01088f_db8ab54e64194ce7b78875b8afc89161~mv2.jpg')}}"/>
+        <meta name="twitter:image" content="https://altimate.co.ke/wp-content/uploads/2021/11/altimate_business_machines_photocopy-machine_kenya.jpg')}}"/>
 
         <!-- Favicon -->
         <link rel="icon" href="images/favicon.png" type="image/png" sizes="any">
