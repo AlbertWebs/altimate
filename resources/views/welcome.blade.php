@@ -93,10 +93,10 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                         <ul class="clearlist scroll-nav local-scroll justify-content-end">
                             <li><a href="#home" class="active">Home</a></li>
                             <li><a href="#about">About Us</a></li>
+                            <li><a href="#solutions">Solutions</a></li>
                             <li><a href="#industries">Industries</a></li>
                             <li><a href="#services">Products</a></li>
                             <li><a href="#software">Software</a></li>
-                            <li><a href="#blog">Solutions</a></li>
                             <li><a href="#news">News Updates</a></li>
                             <li><a href="#contact">Contact</a></li>
                             <li class="ms-3 me-2"></li>
@@ -155,6 +155,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                 <!-- Home Section Text -->
                                 <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
 
+                                    <br><br><br><br>
                                     <h1 class="hs-title-9 mb-40 mb-sm-20 wow fadeInUp">
                                         Leading Provider of intergrated IT Solutions
                                     </h1>
@@ -230,14 +231,14 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
 
                 <!-- Call to Action Section -->
-                <section class="page-section pt-0 pb-0 bg-dark-1 bg-dark-alpha-80 parallax-6 light-content" style="background-image: url('{{asset('uploads/Altimate_Business_Machines_Ltd-modified.jpeg')}}')">
+                <section class="page-section pt-0 pb-0 bg-dark-1 bg-dark-alpha-80 parallax-6 light-content" style="background-image: url('{{asset('uploads/Altimate_Business_Machines_Ltd-modified.jpeg')}}')" id="solutions">
                     <div class="container position-relative">
                         <div class="row">
 
                             <div class="col-md-5 col-xl-5 d-flex align-items-center">
                                 <div class="row">
                                     <div class="containers image-banner">
-                                       <img class="rounds" src="{{asset('uploads/Altimate-Business-Machines-KYOCERA-TASKALFA-221-1.jpg')}}" alt="Image Description">
+                                       <img class="rounds" src="{{asset('uploads/455826279_922476183258374_4037833085332739270_n.jpg')}}" alt="Image Description">
                                     </div>
                                 </div>
                             </div>
@@ -270,7 +271,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
 
                  <!-- Services Section -->
-        <section class="page-section pb-0 bg-industry" id="industries">
+        <section class="page-section pb-0 bg-industrys" id="industries">
 
             <div class="container position-relative">
 
@@ -784,8 +785,8 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                         <div class="row mb-70 mb-sm-50">
 
                             <div class="col-md-8 offset-md-2 col-lg-6 offset-lg-3 text-center">
-                                <h2 class="section-title mb-30 mb-sm-20"><span class="text-gray">Our</span> Blog<span class="text-gray">.</span></h2>
-                                <div class="text-gray">
+                                <h2 class="section-title mb-30 mb-sm-20"><span class="theme-color">Our</span> Blog<span class="text-black">.</span></h2>
+                                <div class="text-black">
                                     Organic shapes are irregular shapes that are often complex and resemble shapes that are found in nature.
                                 </div>
                             </div>
@@ -805,10 +806,10 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                 <div class="post-prev-container">
 
                                     <div class="post-prev-img">
-                                        <a href="elegant-blog-single.html"><img src="{{asset('theme/images/demo-elegant/blog/1.jpg')}}" alt="Add Image Description"></a>
+                                        <a href="#"><img src="{{url('/')}}/uploads/products/Cyber_Cafe_Business_Plan_In_Nigeria.jpg" alt="Add Image Description"></a>
                                     </div>
 
-                                    <h3 class="post-prev-title"><a href="elegant-blog-single.html">Spotlight — Equinox Collection by Shane Griffin</a></h3>
+                                    <h3 class="post-prev-title"><a href="#">The Importance of IT Support for Small and Medium Enterprises (SMEs)</a></h3>
 
                                     <div class="post-prev-text">
                                         Looking for inspiration to kick it off, I stumbled across the work of Shane Griffin, an artist and director based in New York...
@@ -836,13 +837,13 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                 <div class="post-prev-container">
 
                                     <div class="post-prev-img">
-                                        <a href="elegant-blog-single.html"><img src="{{asset('theme/images/demo-elegant/blog/2.jpg')}}" alt="Add Image Description"></a>
+                                        <a href="#"><img src="{{url('/')}}/uploads/products/esp-it-security-policies.webp" alt="Add Image Description"></a>
                                     </div>
 
-                                    <h3 class="post-prev-title"><a href="elegant-blog-single.html">Random Explorations with Cinema 4D and Redshift</a></h3>
+                                    <h3 class="post-prev-title"><a href="#">Top IT Security Threats Facing Businesses in 2024 and How to Combat Them</a></h3>
 
                                     <div class="post-prev-text">
-                                        Nidia Dias is a 3D designer based in the Portugal with an incredible portfolio. From the professional work done with...
+                                        SMEs need reliable IT support to stay competitive. This blog discusses common IT challenges and how Altimate Business Machines offers tailored solutions for business growth.
                                     </div>
 
                                     <div class="post-prev-info clearfix">
@@ -850,7 +851,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                             <a href="#" class="icon-author">
                                                 <i class="mi-user size-14 align-middle"></i>
                                             </a>
-                                            <a href="#">Thomas Johnson</a>
+                                            <a href="#">Robert Gitau</a>
                                         </div>
                                         <div class="float-end">
                                             <i class="mi-calendar size-14 align-middle"></i>
@@ -867,13 +868,13 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                 <div class="post-prev-container">
 
                                     <div class="post-prev-img">
-                                        <a href="elegant-blog-single.html"><img src="{{asset('theme/images/demo-elegant/blog/3.jpg')}}" alt="Add Image Description"></a>
+                                        <a href="#"><img src="{{url('/')}}/uploads/products/s-l400.jpg" alt="Add Image Description"></a>
                                     </div>
 
-                                    <h3 class="post-prev-title"><a href="elegant-blog-single.html">Visually Identity & Branding for Mexican Restaurant</a></h3>
+                                    <h3 class="post-prev-title"><a href="#">How Managed IT Services Can Reduce Costs and Improve Efficiency</a></h3>
 
                                     <div class="post-prev-text">
-                                        Anta Petrenco shared a beautiful visual identity, branding and packaging design project on their Behance profile...
+                                        Many businesses face high in-house IT costs. This blog highlights the benefits of outsourcing to Altimate Business Machines, offering scalable solutions, 24/7 support, and cost savings.`
                                     </div>
 
                                     <div class="post-prev-info clearfix">
@@ -881,7 +882,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                             <a href="#" class="icon-author">
                                                 <i class="mi-user size-14 align-middle"></i>
                                             </a>
-                                            <a href="#">Thomas Johnson</a>
+                                            <a href="#">Noel Kiptum</a>
                                         </div>
                                         <div class="float-end">
                                             <i class="mi-calendar size-14 align-middle"></i>
@@ -900,56 +901,17 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                 <!-- End Blog Section -->
 
 
-                <!-- Newsletter Section -->
-                <section class="small-section bg-dark-1 bg-dark-alpha-70 bg-scroll light-content" style="background-image: url(images/demo-elegant/section-bg-4.jpg)">
-                    <div class="container position-relative">
-
-                        <div class="row">
-                            <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2 wow fadeInUp wch-unset">
-
-                                <h2 class="section-title-tiny text-gray mb-20">Subscribe to our newsletter</h2>
-
-                                <form id="mailchimp" class="form newsletter-elegant" autocomplete="off">
-
-                                    <div class="row">
-
-                                        <div class="col-md-8 col-lg-9 mb-sm-30">
-                                            <input placeholder="Enter your email" class="newsletter-field input-lg form-control mb-20" type="email" pattern=".{5,100}" required="" aria-required="true">
-                                            <div class="form-tip">
-                                                <i class="icon-info size-16"></i>
-                                                By sending the form you agree to the <a href="#">Terms & Conditions</a> and <a href="#">Privacy Policy</a>.
-                                            </div>
-                                        </div>
-
-                                        <div class="col-md-4 col-lg-3 text-start text-md-end">
-                                            <button type="submit" aria-controls="subscribe-result" class="link-hover-anim link-circle-1 align-middle" data-link-animate="y">
-                                                Subscribe <i class="mi-arrow-right size-18 align-middle"></i>
-                                            </button>
-                                        </div>
-
-                                    </div>
-
-                                    <div id="subscribe-result" role="region" aria-live="polite" aria-atomic="true"></div>
-
-                                </form>
-
-                            </div>
-                        </div>
-
-                    </div>
-                </section>
-                <!-- End Newsletter Section -->
 
 
                 <!-- Contact Section -->
-                <section class="page-section" id="contact">
+                <section class="page-section bg-gradient-gray-light-1" id="contact">
                     <div class="container">
 
                         <div class="row mb-70 mb-sm-50">
                             <div class="col-md-8 offset-md-2 col-lg-6 offset-lg-3 text-center">
                                 <h2 class="section-title mb-30 mb-sm-20"><span class="text-gray">Contact</span> Us<span class="text-gray">.</span></h2>
                                 <div class="text-gray">
-                                    Kenya's biggest supplier of new & refurbished photocopier machines, laser printers, toners, desktops and laptops.
+                                    Unlock the Power of IT: Expert Insights and Solutions for Your Business
                                 </div>
                             </div>
                         </div>

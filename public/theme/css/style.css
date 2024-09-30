@@ -4939,6 +4939,9 @@ a.logo:hover{
 .text-gray{
     color: var(--color-gray-1);
 }
+.text-black{
+    color: #000000;
+}
 .text-gray a{
     color: var(--color-dark-1);
     transition: all 0.17s var(--ease-default);
