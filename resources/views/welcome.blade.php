@@ -10,20 +10,20 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <title>Copiers &amp; Printers | Altimate Business Machine</title>
-        <meta name="description" content="Altimate Business Machineis located in Farmingdale, NY and is Long Island and Nairobi's best place to buy or lease printers, copiers, scanners, fax, business software, production printers, wide format, and managed print services from Ricoh &amp; Canon."/>
-        <link rel="canonical" href="https://www.emeralddocument.com"/>
+        <meta name="description" content="Altimate Business Machines located in Farmingdale, NY and is Long Island and Nairobi's best place to buy or lease printers, copiers, scanners, fax, business software, production printers, wide format, and managed print services from Ricoh &amp; Canon."/>
+        <link rel="canonical" href="https://www.altimate.co.ke.com"/>
         <meta property="og:title" content="Copiers &amp; Printers | Altimate Business Machine|  Long Island I Nairobi"/>
         <meta property="og:description" content="Altimate Business Machineis located in Nairobi's best place to buy or lease printers, copiers, scanners, fax, business software, production printers, wide format, and managed print services from Ricoh &amp; Canon."/>
         <meta property="og:image" content="https://static.wixstatic.com/media/01088f_db8ab54e64194ce7b78875b8afc89161~mv2.jpg/v1/fill/w_2500,h_1696,al_c/01088f_db8ab54e64194ce7b78875b8afc89161~mv2.jpg')}}"/>
         <meta property="og:image:width" content="2500"/>
         <meta property="og:image:height" content="1696"/>
-        <meta property="og:url" content="https://www.emeralddocument.com"/>
-        <meta property="og:site_name" content="Emerald Document"/>
+        <meta property="og:url" content="https://www.altimate.co.ke.com"/>
+        <meta property="og:site_name" content="Altimate Business Machines"/>
         <meta property="og:type" content="website"/>
-        <script type="application/ld+json">{"@context":"https://schema.org/","@type":"LocalBusiness","name":"Emerald Document Imaging","url":"https://www.emeralddocument.com","image":"https://static.wixstatic.com/media/01088f_787392bc50c34bfb9a731b0ac3a613c8~mv2.png","address":{"@type":"PostalAddress","addressCountry":"US","addressLocality":"Farmingdale","addressRegion":"NY","postalCode":"11735","streetAddress":"100 Milbar Boulevard"},"telephone":"6313191620"}</script>
-        <script type="application/ld+json">{"@context":"https://schema.org/","@type":"WebSite","name":"Emerald Document","url":"https://www.emeralddocument.com"}</script>
+        <script type="application/ld+json">{"@context":"https://schema.org/","@type":"LocalBusiness","name":"Altimate Business Machines Imaging","url":"https://www.altimate.co.ke.com","image":"https://static.wixstatic.com/media/01088f_787392bc50c34bfb9a731b0ac3a613c8~mv2.png","address":{"@type":"PostalAddress","addressCountry":"US","addressLocality":"Farmingdale","addressRegion":"NY","postalCode":"11735","streetAddress":"100 Milbar Boulevard"},"telephone":"6313191620"}</script>
+        <script type="application/ld+json">{"@context":"https://schema.org/","@type":"WebSite","name":"Altimate Business Machines","url":"https://www.altimate.co.ke.com"}</script>
         <meta name="google-site-verification" content="xXkztYhOsbLZMpv_wWih8MDtJ0RwFfyNQr9zWaK4NSE"/>
-        <link rel="alternate" href="https://www.emeralddocument.com/blog-feed.xml" type="application/rss+xml" title="Emerald Document - RSS"/>
+        <link rel="alternate" href="https://www.altimate.co.ke.com/blog-feed.xml" type="application/rss+xml" title="Altimate Business Machines - RSS"/>
         <meta name="twitter:card" content="summary_large_image"/>
         <meta name="twitter:title" content="Copiers &amp; Printers | Altimate Business Machine|  Long Island I Nairobi"/>
         <meta name="twitter:description" content="Altimate Business Machineis located in Farmingdale, NY and is Long Island and Nairobi's best place to buy or lease printers, copiers, scanners, fax, business software, production printers, wide format, and managed print services from Ricoh &amp; Canon."/>
